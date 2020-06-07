@@ -1,6 +1,6 @@
 {
-  "short_name": "Section Modulus Calculator",
-  "name": "Section Modulus Calculator",
+  "short_name": "단면계수 계산기",
+  "name": "단면계수 계산기",
   "icons": [
     {
       "src": "favicon.ico",
